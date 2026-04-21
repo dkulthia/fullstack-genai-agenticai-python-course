@@ -103,3 +103,36 @@ Implemented multiple mini-projects to apply logic:
 - Taking user input and making decisions based on it  
 
 ---
+
+### 🟢 Day 02 — 21/04/2026
+
+#### 📚 Topics Covered:
+- 🔁 Loops in Python  
+- 🔂 `for` loop  
+- ♾️ `while` loop  
+- 🔢 `enumerate()`  
+- 🔗 `zip()`  
+
+---
+
+#### 💻 What I Built:
+
+##### 🔹 Loop-Based Practice
+Implemented multiple mini-projects to strengthen understanding of loops and iteration:
+
+- 📋 `changed_menu.py`  
+- 🧾 `order_queue.py`  
+- 📊 `order_summary.py`  
+- 🔥 `tea_heating_simulater.py`  
+- 🍵 `tea_menu.py`  
+
+---
+
+#### 🎯 Key Learnings:
+- Iterating over sequences using `for` loops  
+- Using `while` loops for condition-based execution  
+- Leveraging `enumerate()` for indexed iteration  
+- Combining multiple iterables using `zip()`  
+- Writing cleaner and more efficient loop-based logic  
+
+---
