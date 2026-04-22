@@ -136,3 +136,38 @@ Implemented multiple mini-projects to strengthen understanding of loops and iter
 - Writing cleaner and more efficient loop-based logic  
 
 ---
+
+### 🟢 Day 03 — 22/04/2026
+
+#### 📚 Topics Covered:
+- 🔁 Advanced Loops (continued)  
+- 🧠 Walrus Operator (`:=`)  
+- ⚙️ Functions in Python  
+
+---
+
+#### 💻 What I Built:
+
+##### 🔹 Loop Enhancements
+- Explored more use-cases of loops  
+- Learned and applied the walrus operator for cleaner and more efficient conditions  
+
+##### 🔹 Functions
+Implemented multiple mini-projects to understand function structure and reusability:
+
+- 🧮 `bill_calculator.py`  
+- 🧾 `customer_order.py`  
+- 📊 `report_generator.py`  
+- 👤 `user_registration.py`  
+- 💰 `vat_calculator.py`  
+
+---
+
+#### 🎯 Key Learnings:
+- Writing cleaner loops using the walrus operator  
+- Understanding function definition and parameters  
+- Improving code reusability using functions  
+- Structuring programs into modular components  
+- Separating logic into reusable blocks  
+
+---
