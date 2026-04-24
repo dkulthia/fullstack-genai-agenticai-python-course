@@ -199,3 +199,40 @@ Implemented a mini-program to reinforce concepts:
 - Writing more predictable and controlled functions  
 
 ---
+
+### 🟢 Day 05 — 24/04/2026
+
+#### 📚 Topics Covered:
+- ⚙️ Functions (continued)  
+- 🌐 Global Scope  
+- 🔄 Nonlocal Scope  
+- 🔙 `return` statement in functions  
+
+---
+
+#### 💻 What I Built:
+
+##### 🔹 Scope Deep Dive
+- Explored `global` and `nonlocal` keywords in functions  
+- Understood how variable modification works across different scopes  
+
+Implemented practice programs:
+
+- 🌐 `global_scopes.py`  
+- 🔁 `nonlocal.py`  
+
+---
+
+#### 🎯 Key Learnings:
+- Difference between `local`, `global`, and `nonlocal` scope  
+- When and how to use `global` and `nonlocal` effectively  
+- Understanding how Python resolves variable scope (LEGB rule)  
+- Using `return` to send values back from functions  
+
+---
+
+#### 💭 Notes:
+- The concept of the `return` statement was straightforward and didn’t require dedicated practice programs.  
+- Will apply `return` extensively in larger and more complex projects ahead.  
+
+---
