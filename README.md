@@ -171,3 +171,31 @@ Implemented multiple mini-projects to understand function structure and reusabil
 - Separating logic into reusable blocks  
 
 ---
+
+### 🟢 Day 04 — 23/04/2026
+
+#### 📚 Topics Covered:
+- ⚙️ Functions (continued)  
+- 🌍 Scope in Python (Local vs Global)  
+
+---
+
+#### 💻 What I Built:
+
+##### 🔹 Scope & Functions
+- Explored how variables behave in different scopes  
+- Practiced using local and global variables within functions  
+
+Implemented a mini-program to reinforce concepts:
+
+- 🔍 `scopes.py`  
+
+---
+
+#### 🎯 Key Learnings:
+- Difference between local and global scope  
+- How variable scope affects function behavior  
+- Avoiding unintended variable modification  
+- Writing more predictable and controlled functions  
+
+---
