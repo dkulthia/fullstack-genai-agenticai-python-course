@@ -310,7 +310,7 @@ Implemented practice programs:
 
 Implemented a practice program:
 
-- 🧪 `lambda.py`  
+- 🧪 `lambdas.py`  
 
 ---
 
