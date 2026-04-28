@@ -293,3 +293,31 @@ Implemented practice programs:
 - Ready to resume learning with full focus from the next session  
 
 ---
+
+### 🟢 Day 09 — 28/04/2026
+
+#### 📚 Topics Covered:
+- ⚡ Lambda Functions  
+- 🧼 Pure vs Impure Functions  
+
+---
+
+#### 💻 What I Built:
+
+##### 🔹 Functional Concepts
+- Explored anonymous functions using `lambda`  
+- Understood the difference between pure and impure functions  
+
+Implemented a practice program:
+
+- 🧪 `lambda.py`  
+
+---
+
+#### 🎯 Key Learnings:
+- Writing concise one-line functions using `lambda`  
+- Identifying pure functions (no side effects, predictable output)  
+- Understanding impure functions and their real-world use cases  
+- When to use `lambda` vs regular functions  
+
+---
