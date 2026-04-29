@@ -1,6 +1,6 @@
 # 🚀 My Learning Journey – Generative & Agentic AI
 
-Welcome to my Python learning repository!!  
+Welcome to my Python learning repository!! 
 This repo documents my complete journey while learning Python as part of the course:
 
 📚 **[Full Stack Generative and Agentic AI with Python](https://www.udemy.com/course/full-stack-ai-with-python/)**  
