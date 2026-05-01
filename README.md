@@ -321,3 +321,35 @@ Implemented a practice program:
 - When to use `lambda` vs regular functions  
 
 ---
+
+### 🟢 Day 10 — 29/04/2026
+
+#### 📚 Topics Covered:
+- 📝 Documenting Functions  
+- 🧰 Built-in Functions in Python  
+- 📦 Python Imports  
+- 🧩 Modules  
+
+---
+
+#### 💻 What I Built:
+
+##### 🔹 Functions & Modules
+- Learned how to document functions using docstrings  
+- Explored commonly used built-in functions  
+- Understood how to import and use modules in Python  
+
+Implemented practice programs:
+
+- 📝 `documenting.py`  
+- 📦 `importing.py`  
+
+---
+
+#### 🎯 Key Learnings:
+- Writing clear and useful docstrings for functions  
+- Utilizing Python’s built-in functions effectively  
+- Importing modules using different approaches (`import`, `from ... import`)  
+- Organizing code into modular and reusable components  
+
+---
