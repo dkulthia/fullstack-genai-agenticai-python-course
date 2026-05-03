@@ -1,4 +1,4 @@
-# 🚀 My Learning Journey – Generative & Agentic AI
+# 🚀 My Learning Journey – Generative & Agentic AI 
 
 Welcome to my Python learning repository!! 
 This repository documents my complete journey while learning Python as part of the course:
