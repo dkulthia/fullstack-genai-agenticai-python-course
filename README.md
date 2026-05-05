@@ -10,7 +10,7 @@ This repository documents my complete journey while learning Python as part of t
 
 ## 📌 About This Repository 
 
-This repository is a structured collection of:
+This repository is a structured collection of: 
 - 🧠 Concepts learned daily
 - 💻 Mini programs and practice scripts
 - 📈 My progress throughout the course
